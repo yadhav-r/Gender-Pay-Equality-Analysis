@@ -3,19 +3,21 @@
 ## Project Overview
 
 This project analyzes gender pay equality across different Daikibo factories using Microsoft Excel. The goal is to identify patterns of pay inequality across job roles and factory locations.
+
 The analysis classifies equality scores into categories and visualizes the distribution using pivot tables and charts.
 
+---
 
 ## Objective
 
-The objective of this project is to :
+The objective of this project is to:
 
 * Analyze equality scores across factories
 * Identify potential discrimination patterns
 * Visualize fairness distribution across job roles
 * Provide insights that could help decision makers review salary structures
 
-
+---
 
 ## Dataset Description
 
@@ -29,11 +31,11 @@ The dataset contains three main columns:
 
 Equality Score Range:
 
-* 0 → Perfect equality
-* Negative values → Potential discrimination
-* Positive values → Potential inequality in the opposite direction
+* **0** → Perfect equality
+* **Negative values** → Potential discrimination
+* **Positive values** → Potential inequality in the opposite direction
 
-
+---
 
 ## Data Processing
 
@@ -47,6 +49,7 @@ Classification Logic:
 
 This classification helps identify areas requiring attention.
 
+---
 
 ## Tools Used
 
@@ -56,7 +59,7 @@ This classification helps identify areas requiring attention.
 * Pivot tables
 * Data visualization (Clustered column chart)
 
-
+---
 
 ## Analysis Process
 
@@ -66,7 +69,7 @@ This classification helps identify areas requiring attention.
 4. Creation of pivot tables to summarize factory-wise equality patterns
 5. Visualization using clustered column charts
 
-
+---
 
 ## Key Findings
 
@@ -90,7 +93,7 @@ This classification helps identify areas requiring attention.
 * Mostly fair roles
 * Minor inequality present
 
-
+---
 
 ## Overall Summary
 
@@ -103,17 +106,19 @@ This classification helps identify areas requiring attention.
 
 The majority of job roles demonstrate fair pay equality, but some factories show signs of inequality that require further investigation.
 
-
+---
 
 ## Visualization
 
 The project includes a pivot chart that shows the distribution of equality classes across factories, allowing easy comparison between locations.
 
+---
 
 ## Internship Experience
 
 This project was completed as part of a **Data Analytics Internship**, where the objective was to analyze gender pay equality patterns using real-world datasets.
 
+---
 
 ## Future Improvements
 
@@ -124,8 +129,9 @@ Possible improvements to this project include:
 * Creating a Power BI dashboard for better visualization
 * Expanding the dataset with more job roles and locations
 
-
+---
 
 ## Author
+
 Yadhav R
 BTech Student | Aspiring Data Analyst
